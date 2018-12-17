@@ -1,0 +1,28 @@
+{
+  "name": "quantum",
+  "version": "1.0.0",
+  "description": "Project By Rachana & Shreyas",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrHope312/College_Forum.git"
+  },
+  "keywords": [
+    "college",
+    "forum",
+    "citech",
+    "web",
+    "technology",
+    "project"
+  ],
+  "author": "Rachana, Shreyas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrHope312/College_Forum/issues"
+  },
+  "homepage": "https://github.com/MrHope312/College_Forum#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "rellax": "^1.7.1"
+  }
+}
